@@ -1,0 +1,17 @@
+{
+  "server": {
+    "description": "qbittorrent 服务器地址",
+    "type": "string",
+    "default": "http://localhost:8080"
+  },
+  "username": {
+    "description": "qbittorrent 用户名",
+    "type": "string",
+    "default": "admin"
+  },
+  "password": {
+    "description": "qbittorrent 密码",
+    "type": "string",
+    "default": "adminadmin"
+  }
+}
